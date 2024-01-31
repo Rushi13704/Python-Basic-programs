@@ -1,2 +1,1 @@
-# Python-Codes
-Private repository as this is day 1 of using github.
+Python Basic programs. These programs give basic knowledge about python language, how some operations are done with a python code.
